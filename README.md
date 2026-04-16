@@ -1,12 +1,25 @@
 # Análise de Dados de Recursos Humanos
 
-**Instituto FIAP** | **Professor:** Luciana | **Turma:** 2TDSPH
+**FIAP** | **Professor:** Luciana | **Turma:** TIAPZ  
+**Disciplina:** Computational Thinking with Python
+
+---
+
+## Equipe
+
+| Nome | RM |
+|------|-----|
+| Giovanni Henrique Pereira Hessel | 570574 |
+| Suellen Pereira da Silva | 573862 |
+| Arthur Zeferino | 570858 |
+| Israel Carneiro de Toledo | 573854 |
+| Luan Gonçalves de Freitas | 571935 |
 
 ---
 
 ## Sobre o Projeto
 
-Este repositório contém a atividade prática (CP2) da disciplina de Python do Instituto FIAP. O projeto consiste em uma análise exploratória de dados de Recursos Humanos, utilizando o dataset **HRDataset_v14** com informações de 311 funcionários.
+Este repositório contém a atividade prática (CP2) da disciplina de Computational Thinking with Python da FIAP. O projeto consiste em uma análise exploratória de dados de Recursos Humanos, utilizando o dataset **HRDataset_v14** com informações de 311 funcionários.
 
 ## Estrutura do Notebook
 
@@ -57,6 +70,6 @@ O notebook está organizado em **8 exercícios indexados**, progressivos em comp
 2. Abra o arquivo `CP2-Luciana-Python-Analise-RH.ipynb` no Jupyter ou Google Colab
 3. Execute as células sequencialmente
 
-## Autor
+---
 
-Desenvolvido como atividade prática da turma 2TDSPH do Instituto FIAP sob orientação da Professora Luciana.
+**FIAP** - Computational Thinking with Python
