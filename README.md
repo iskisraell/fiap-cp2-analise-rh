@@ -55,20 +55,26 @@ O notebook está organizado em **8 exercícios indexados**, progressivos em comp
 - `EngagementSurvey` - Pesquisa de engajamento (0-5)
 - `EmpSatisfaction` - Satisfação do funcionário (1-5)
 
-## Tecnologias Utilizadas
+## Dependências
 
-- Python 3
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Jupyter Notebook / Google Colab
+```
+pip install pandas numpy matplotlib seaborn kagglehub
+```
+
+| Pacote | Uso |
+|--------|-----|
+| `pandas` | Manipulação de dados (DataFrames, filtros, groupby) |
+| `numpy` | Operações numéricas (np.where, quantis) |
+| `matplotlib` | Gráficos (boxplot) |
+| `seaborn` | Heatmap de correlação |
+| `kagglehub` | Download automático do dataset |
 
 ## Como Executar
 
 1. Clone o repositório
-2. Abra o arquivo `CP2-Luciana-Python-Analise-RH.ipynb` no Jupyter ou Google Colab
-3. Execute as células sequencialmente
+2. Instale as dependências: `pip install pandas numpy matplotlib seaborn kagglehub`
+3. Abra o arquivo `CP2-Luciana-Python-Analise-RH.ipynb` no Jupyter ou Google Colab
+4. Execute as células sequencialmente
 
 ---
 
